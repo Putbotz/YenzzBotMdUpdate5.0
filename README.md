@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Syenzky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Syenzky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Syenzky" target="_blank">Syenzky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@ Syenzky Bot Multi Device is a automated whatsapp bot created by <a href="https:/
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/60109561479"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/LxKGjxSdia2Jdtz0RIeUd4"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCQKyzmfPBlSKmfDCjV04xWw"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/60109561479"><img src="https://img.shields.io/badge/Contact Syenzky-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/LxKGjxSdia2Jdtz0RIeUd4"><img src="https://img.shields.io/badge/Join Official GC Syenzky Botz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCQKyzmfPBlSKmfDCjV04xWw"><img src="https://img.shields.io/badge/Subscribe Syenzky-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
@@ -59,11 +59,11 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Syenzkyy/YenzzBotMdUpdate5.0/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/Syenzkyy/YenzzBotMdUpdate5.0/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/Syenzkyy/YenzzBotMdUpdate5.0/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/Syenzkyy/YenzzBotMdUpdate5.0/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/Syenzkyy/YenzzBotMdUpdate5.0/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
