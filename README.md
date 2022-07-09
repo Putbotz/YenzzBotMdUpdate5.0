@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ𝗦𝘆𝗲𝗻𝘇𝗸𝘆 𝗕𝗼𝘁-𝗠𝗗 𝗩5ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/f96835f4a108f550b8cfc.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/93be3b9d7dc9559c055a1.jpg" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
