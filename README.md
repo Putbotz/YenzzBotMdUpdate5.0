@@ -10,7 +10,7 @@ Syenzky Bot Multi Device is a automated whatsapp bot created by <a href="https:/
 </p>
 
 <p align="center">
-<a href="https://youtube.com/channel/UCQKyzmfPBlSKmfDCjV04xWw"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtube.com/channel/UCQKyzmfPBlSKmfDCjV04xWw"><img title="Size" src="https://telegra.ph/file/345bbd362f0335c267231.jpg"></a>
 </p>
 
 ------
