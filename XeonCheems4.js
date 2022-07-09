@@ -10587,10 +10587,11 @@ case 'tqtt':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks to
-LORD BUDDHA
-Xeon (Me)
-My family
-And all friends who helped assemble this sexy script !!!`)
+𝗟𝗼𝗿𝗱 𝗕𝘂𝗱𝗱𝗵𝗮
+𝗫𝗲𝗼𝗻 [ Script Owner ]
+𝗦𝘆𝗲𝗻𝘇𝗸𝘆 [ Owner ]
+𝗠𝘆 𝗙𝗮𝗺𝗶𝗹𝘆
+𝗔𝗻𝗱 𝗮𝗹𝗹 𝗺𝘆 𝗳𝗿𝗶𝗲𝗻𝗱𝘀 𝘄𝗵𝗼 𝗵𝗲𝗹𝗽𝗲𝗱 𝗮𝘀𝘀𝗲𝗺𝗯𝗹𝗲 𝘁𝗵𝗶𝘀 𝘀𝗲𝘅𝘆 𝘀𝗰𝗿𝗶𝗽𝘁 !! 😩`)
 break
             default:
                 if (budy.startsWith('=>')) {
